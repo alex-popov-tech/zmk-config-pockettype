@@ -1,0 +1,6 @@
+include:
+  - board: nrfmicro_13
+    shield: pockettype
+    artifact-name: pockettype
+  - board: nrfmicro_13
+    shield: settings_reset
