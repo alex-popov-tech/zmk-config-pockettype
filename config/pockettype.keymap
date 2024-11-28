@@ -22,7 +22,7 @@
         hello: hello {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp H &kp E &kp L &kp L &kp O>;
+            bindings = <&kp LS(A) &kp E &kp L &kp L &kp O>;
             label = "HELLO";
         };
     };
